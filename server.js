@@ -9,9 +9,11 @@ const cs = 'coming soon'
 
 const terpenes = {
     'limonene': {
-        'scent': 'citrusy',
-        'possible benefits': ['stress relief', 'mood stabilizer', 'anxiety', 'depression'],
-        'possible effects': ['uplifting', 'euphoric'],
+        'terpName': 'Limonene'
+        'scent': 'Citrusy',
+        'nature': 'Citrus Fruit'
+        'benefits': ['stress relief', 'mood stabilizer', 'anxiety', 'depression'],
+        'effects': ['uplifting', 'euphoric'],
         'strains': ['skunk xl', 'white widow', 'special kush'],
         'research': cs,
     },
