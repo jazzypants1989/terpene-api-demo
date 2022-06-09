@@ -113,7 +113,14 @@ const terpenes = {
         'strains': cs
         'research': cs
     }
-
+    'unknown': {
+        'scent': 'unknown'
+        'possible benefits': 'unknown'
+        'possible effects': 'unknown'
+        'strains': 'unknown'
+        'research': 'unknown'
+    }
+}
 
 app.get('/', (request, response) => {
     response.sendFile(__dirname + '/index.html')
