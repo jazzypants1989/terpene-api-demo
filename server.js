@@ -16,6 +16,7 @@ const terpenes = {
         'effects': ['uplifting', 'euphoric'],
         'strains': ['skunk xl', 'white widow', 'special kush'],
         'research': cs,
+        'image': 'https://cdn.britannica.com/84/188484-050-F27B0049/lemons-tree.jpg'
     },
     'myrcene': {
         'scent': ['earthy', 'musky', 'clove', 'grape'],
